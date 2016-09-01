@@ -3,6 +3,9 @@ using System.Linq;
 
 namespace SportsStore.Domain.Entities
 {
+	/// <summary>
+	/// This class represents a simple cart for keeping products that are in the buying list
+	/// </summary>
 	public class Cart
 	{
 		private List<CartLine> _lineCollection = new List<CartLine>();
