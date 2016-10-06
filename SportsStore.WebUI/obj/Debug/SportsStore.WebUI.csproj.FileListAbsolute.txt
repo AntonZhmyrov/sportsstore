@@ -14,6 +14,8 @@ D:\Projects\SportsStore\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
 D:\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
 D:\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
 D:\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+D:\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+D:\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 D:\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
 D:\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.dll
 D:\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -36,6 +38,8 @@ D:\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
 D:\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
 D:\Projects\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
 D:\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+D:\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+D:\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
 D:\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.DependencyCollector.xml
 D:\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\Projects\SportsStore\SportsStore.WebUI\bin\Microsoft.AI.Web.xml
@@ -58,7 +62,3 @@ D:\Projects\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
 D:\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 D:\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 D:\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
-D:\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
-D:\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
-D:\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
-D:\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
